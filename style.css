@@ -1,0 +1,150 @@
+html, body {
+background-image: url("worldoftanks.jpg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
+#TOP{
+text-align:center;
+}
+
+#NAGLOWEK {
+	text-align:center;
+	clear:both;
+	width:75%;
+	margin:auto;
+	background:rgba(152,51,0,0.7);
+	border-radius: 15px;
+}
+
+#MENU {
+background-color:white;
+border-width:5px;
+border-style:ridge;
+border-color:#993300;
+margin-right:30px;
+border-radius: 15px;
+	width: 9%;
+	overflow: hidden;
+float:left;
+opacity:0.5;
+	-moz-opacity:0.5;
+	border-radius: 15px;
+}
+
+#MENU1 {
+background-color:white;
+border-width:5px;
+border-style:ridge;
+border-color:#993300;
+margin-right:30px;
+border-radius: 15px;
+	width: 9%;
+	overflow: hidden;
+	opacity:0.5;
+	-moz-opacity:0.5;
+	border-radius: 15px;
+	position:absolute;
+	left:8px;
+	top:560px;
+}
+
+#MENU2 {
+background-color:white;
+border-width:5px;
+border-style:ridge;
+border-color:#993300;
+margin-right:30px;
+border-radius: 15px;
+	width: 9%;
+	overflow: hidden;
+	opacity:0.5;
+	-moz-opacity:0.5;
+	border-radius: 15px;
+	position:absolute;
+	left:8px;
+	top:705px;
+}
+
+#TRESC {
+background:rgba(250,250,250,0.7);
+border-radius: 15px;
+	width: 80%;
+	float:left;
+	overflow: hidden;
+}
+
+#STOPKA {
+	clear: both;
+	width: 100%;
+	background: rgba(250,250,250,0.5);
+	border-radius: 15px;
+	margin:30px;
+	width:30%;
+}
+
+.a{
+float:left;
+}
+
+.a:hover{
+width:350px;
+height:350px;
+}
+
+.b{
+background-color:yellow;
+font-style:italic;
+}
+
+.c:active{
+color:green;
+}
+
+h1{
+font-style:italic;
+}
+
+.d{
+text-align:center;
+}
+
+.e{
+width:9%;
+text-align:center;
+}
+
+.f{
+font-size:20px;
+font-weight:bold;
+}
+
+.g{
+float:left;
+}
+
+.g:hover{
+height:370px;
+width:550px;
+}
+
+img{
+-webkit-transition: 0.3;
+    transition: 0.3s;
+}
+
+.h{
+background:rgba(250,250,250,0.7);
+border-radius: 15px;
+width:70%;
+margin:auto;
+padding: 20px;
+}
+
+.i{
+float:left;
+}
+
+.j{
+font-weight:bold;
+}
